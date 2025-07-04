@@ -1,4 +1,4 @@
-ML & AI Practice
+### ML & AI Practice
 
 This repository contains my personal notes, code, and exercises while learning the foundations of machine learning and AI, based on the [Machine Learning playlist by Codebasics (Dhaval Patel)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw).
 
