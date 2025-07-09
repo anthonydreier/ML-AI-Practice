@@ -14,7 +14,7 @@ df = pd.DataFrame(iris.data, columns=iris.feature_names)
 print(df)
 print(iris.target)
 
-X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.5)
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.2)
 
 model = RandomForestClassifier()
 
@@ -26,3 +26,7 @@ y_pred = model.predict(X_test)
 
 sns.heatmap(confusion_matrix(y_test, y_pred), annot=True, cmap='rocket_r')
 plt.show()
+
+#Really high score because it's a very nicely separated dataset, could prob
+#be improved with more trees and a larger training set (ie gets 1.0 model
+#score with test_size=0.2
