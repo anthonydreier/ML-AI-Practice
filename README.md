@@ -14,6 +14,6 @@ What's Included
 
 Each topic is organized in its own directory. The /Exercise folder within each topic contains my personal solutions to the exercises from that video.
 
-This self-study effort is part of my preparation for contributing to an applied machine learning research project under faculty supervision at Florida Polytechnic University, with the goal of eventually exploring deep learning.
+This self-study effort is part of my preparation for contributing to an applied deep learning research project under faculty supervision at Florida Polytechnic University.
 
     Note: This repository is for educational purposes only. All credit for the original material goes to Codebasics.
