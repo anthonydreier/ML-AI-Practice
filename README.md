@@ -4,13 +4,13 @@ This repository contains my personal notes, code, and exercises while learning t
 
 What's Included
 
-    Follow-along implementations of core ML algorithms and concepts
+- Follow-along implementations of core ML algorithms and concepts
 
-    My own solutions and interpretations of the assignment exercises
+- My own solutions and interpretations of the assignment exercises
 
-    Exploratory notebooks with experimentation and tweaks
+- Exploratory notebooks with experimentation and tweaks
 
-    Python-based code using scikit-learn, pandas, numpy, and matplotlib
+- Python-based code using scikit-learn, pandas, numpy, and matplotlib
 
 Each topic is organized in its own directory. The /Exercise folder within each topic contains my personal solutions to the exercises from that video.
 
